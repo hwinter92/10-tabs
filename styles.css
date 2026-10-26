@@ -1,15 +1,28 @@
 html {
     background-color: mistyrose;
+    font-family: Quicksand;
 }
 
 code {
     background-color: rgba(0, 0, 0, 0.2);
+    padding: 4px;
+    border-radius: 10px;
 }
+
+
 
 .site-header {
     background-color: lightblue;
     padding: 20px 20px 0 20px;
     border-radius: 20px 20px 0 0;
+}
+
+.header-one {
+    color: white;
+}
+
+.header-two {
+    color: purple;
 }
 
 .site-main {
@@ -34,6 +47,7 @@ code {
 .site-link {
     background-color: rgb(130, 186, 204);
     color: indigo;
+    margin-top: 25px;
     padding: 16px;
     display: block;
     text-align: center;
